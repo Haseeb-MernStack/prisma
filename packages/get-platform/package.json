@@ -30,7 +30,7 @@
     "terminal-link": "4.0.0",
     "ts-pattern": "5.6.2",
     "typescript": "5.4.5",
-    "vitest": "3.2.4"
+    "vitest": "5.1.0"
   },
   "dependencies": {
     "@prisma/debug": "workspace:*"

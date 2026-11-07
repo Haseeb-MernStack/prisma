@@ -30,7 +30,7 @@
     "@prisma/internals": "workspace:*"
   },
   "devDependencies": {
-    "vitest": "3.2.4"
+    "vitest": "5.1.0"
   },
   "scripts": {
     "dev": "DEV=true tsx helpers/build.ts",
