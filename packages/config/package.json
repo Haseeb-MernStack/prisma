@@ -13,7 +13,7 @@
   "author": "Alberto Schiabel <schiabel@prisma.io>",
   "dependencies": {
     "c12": "3.1.0",
-    "deepmerge-ts": "7.1.5",
+    "deepmerge-ts": "8.0.2",
     "effect": "3.18.4",
     "empathic": "2.0.0"
   },
@@ -21,7 +21,7 @@
     "@prisma/debug": "workspace:*",
     "@prisma/get-platform": "workspace:*",
     "dotenv": "17.2.3",
-    "vitest": "3.2.4"
+    "vitest": "5.1.0"
   },
   "scripts": {
     "dev": "DEV=true tsx helpers/build.ts",
